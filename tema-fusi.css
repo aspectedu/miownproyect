@@ -92,7 +92,7 @@
 /* LOGO DE LA WEB */
 
 h3.pageTitle.pageTitleWithLogo.pageTitleWithDefaultLogo {
-background-image: url('https://i.uimgur.com/O84spJC.png') !important;
+background-image: url('https://i.imgur.com/O84spJC.png') !important;
 background-size: contain;
 background-repeat: no-repeat;
 background-position: center;
@@ -3747,3 +3747,4 @@ background: linear-gradient(
     transform: none !important;
 
 }
+
